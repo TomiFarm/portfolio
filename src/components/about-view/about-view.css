@@ -1,0 +1,15 @@
+.about-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.about-content-container {
+    margin: 5em;
+    border: 1px solid black;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
